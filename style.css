@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient(to bottom right, red, yellow);
+  text-align:center;
+  background-repeat:no-repeat;
+}
+img {
+  width:500px;
+  height:375px;
+  border-radius:20px;
+  border:blue solid 3px;
+}
+.firstimage{
+  border-radius:50px;
+  width:100px;
+  height:75px;
+}
+p{
+  font-size:25px;
+  font-family: 'Varela Round', sans-serif;
+}
+h2{
+  font-family: 'Varela Round', sans-serif;
+}
+section{
+  font-family: 'Varela Round', sans-serif;
+  font-size:20px;
+}
